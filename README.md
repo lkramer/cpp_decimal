@@ -1,5 +1,7 @@
-# C++ Decimal handling
+# C++ Decimal
 This is my attempt at creating a decimal type in C++. It allows creation of decimal values with no loss of precision.
+
+The single header filer, `decimal.h` is enough to get started. The CMakeLists.txt is provided to build the gtests.
 
 ## Example of use
 To create a Decimal type using a string:
