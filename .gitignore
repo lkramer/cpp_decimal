@@ -1,0 +1,22 @@
+# cmake
+Testing
+Makefile
+bin
+thirdparty_external/
+build
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake_install
+cmake-build-debug/
+cmake-build-release/
+
+# vim Swap
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-v][a-z]
+[._]sw[a-p]
+
